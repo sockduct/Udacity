@@ -1,0 +1,13 @@
+####################################################################################################
+What happens when you initialize a repository?  Why do you need to do it?
+> Initializing a repo creates a .git folder which stores change info.
+> To take advantage of git/source control for a directory, you need to create a repo for the
+> directory.
+
+How is the staging area different from the working directory and the repository?  What value do
+you think if offers?
+> Staging area is a temporary buffer between the working directory and the repo.  The staging area
+> collects related files in preparation for a commit.  The staging area makes it easy to group
+> related files into a commit without forcing everything to be done with one command.
+
+
