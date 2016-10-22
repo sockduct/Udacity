@@ -10,4 +10,9 @@ you think if offers?
 > collects related files in preparation for a commit.  The staging area makes it easy to group
 > related files into a commit without forcing everything to be done with one command.
 
+How can you use the staging area to make sure you have one commit per logical change?
+> The staging area allows you to use git diff to see what's changed.  You can use git diff to
+> see the difference between the working directory and the staging area and you can use git diff
+> --staged to see what's different between the staging area and the most recent commit.  By
+> reviewing what you're going to commit, you can make sure it's just one logical change.
 
