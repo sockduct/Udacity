@@ -16,3 +16,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 > --staged to see what's different between the staging area and the most recent commit.  By
 > reviewing what you're going to commit, you can make sure it's just one logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How
+would branches help?
+> Whenever you want to make a major change or experiment with something, a branch would be a
+> useful way to separate the change from the current working version.
+
