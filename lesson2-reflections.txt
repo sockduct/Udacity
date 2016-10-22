@@ -21,3 +21,6 @@ would branches help?
 > Whenever you want to make a major change or experiment with something, a branch would be a
 > useful way to separate the change from the current working version.
 
+How do the diagrams help you visualize the branch structure?
+> Diagrams help crystalize how the commits are sequenced and how branches related to each other.
+
