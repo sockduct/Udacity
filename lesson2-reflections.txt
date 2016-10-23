@@ -24,3 +24,10 @@ would branches help?
 How do the diagrams help you visualize the branch structure?
 > Diagrams help crystalize how the commits are sequenced and how branches related to each other.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+> Merging two branches combines both together into a new commit with the checked out branch being
+> the one used to label the commit.  This becomes the new tip for the checked out branch.  This
+> commit is a little different than others though because it has two parents instead of one.  One
+> good way to see this is with git log --graph --oneline
+
