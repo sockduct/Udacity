@@ -31,3 +31,7 @@ we do?
 > commit is a little different than others though because it has two parents instead of one.  One
 > good way to see this is with git log --graph --oneline
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+> Where it's safe, automatic merging makes sense and saves time.  Where there's risk, manual
+> merges make sense as multiple people may have to collaborate to determine the best course.
+
