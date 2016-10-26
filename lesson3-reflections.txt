@@ -1,1 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
+> Remote repos are useful for backing up your work.  If anything happens to your local files or
+> to your computer, everything is safe on GitHub.  Remote repos are useful for keeping multiple
+> devices in sync such as if you're using multiple systems.  They are also useful for
+> collaborating with other people.
+
