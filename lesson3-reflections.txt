@@ -20,3 +20,9 @@ another?
 > concept, a clone is a generic way to copy a repo, and a branch is a way to separate different
 > lines/chains of commits.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+> It allows you or multiple people to work with the branch/repo offline.  It allows experimenting
+> with the repo locally without changing the master copy stored in the remote.  It facilitates
+> collaboration by making it easier for one or more people to have the entire commit history
+> locally.  Each person can then make changes and choose to push them back.
+
