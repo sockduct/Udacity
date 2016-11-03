@@ -26,3 +26,10 @@ What is the benefit of having a copy of the last known state of the remote store
 > collaboration by making it easier for one or more people to have the entire commit history
 > locally.  Each person can then make changes and choose to push them back.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be
+harder?
+> Without git/GitHub you could use E-mail and/or something like DropBox.  However, this makes
+> version control and coordinating between multiple collaborators painful.  Using something like
+> DropBox may be easier for simple changes or minimal collaboration.  However, you lose version
+> control history and this breaks down with more complex projects and lots of collaborators.
+
