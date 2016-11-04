@@ -33,3 +33,9 @@ harder?
 > DropBox may be easier for simple changes or minimal collaboration.  However, you lose version
 > control history and this breaks down with more complex projects and lots of collaborators.
 
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+> When a solution/program is stable, any new features should typically be made in a new branch.
+> However, bug fixes may make sense to put in master.  The benefit of using a new branch for
+> new features is it makes it easy to see what got added in and to revert if necessary.
+
